@@ -31,3 +31,12 @@ figures/
 
 scripts/
   ggPlantMap_final_figures.R
+
+## References
+
+- Tian, C., Du, Q., Xu, M., Du, F., & Jiao, Y. (2020). *Single-nucleus RNA-seq resolves spatiotemporal developmental trajectories in the tomato shoot apex*. bioRxiv. https://doi.org/10.1101/2020.09.20.305029
+
+- EMBL-EBI Single Cell Expression Atlas. *Single-nucleus RNA-seq resolves spatiotemporal developmental trajectories in the tomato shoot apex* — accession `E-ENAD-53`. https://www.ebi.ac.uk/gxa/sc/experiments/E-ENAD-53
+
+- Jo, L. & Kajala, K. (2024). *ggPlantmap: An open-source R package for informative ggplot maps from plant images*. Journal of Experimental Botany, 75(17), 5366–5376. https://doi.org/10.1093/jxb/erae043
+- https://github.com/leonardojo/ggPlantmap
