@@ -31,7 +31,7 @@ figures/
 
 scripts/
   ggPlantMap_final_figures.R
-
+```
 ## References
 
 - Tian, C., Du, Q., Xu, M., Du, F., & Jiao, Y. (2020). *Single-nucleus RNA-seq resolves spatiotemporal developmental trajectories in the tomato shoot apex*. bioRxiv. https://doi.org/10.1101/2020.09.20.305029
