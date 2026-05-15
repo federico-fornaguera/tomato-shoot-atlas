@@ -1,0 +1,100 @@
+feature,feature_label,module,ROI.name,value_raw,value_z
+MTR3,MTR3,trichome_morphogenesis,Meristem,14.756765365600586,-0.5866557955741882
+TOE1B,TOE1B,glandular_regulation,Meristem,6.451107025146484,-0.8764491677284241
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,Meristem,0.6334100961685181,-0.23948286473751068
+ASH3,ASH3,typeIV_acylsugar_metabolism,Meristem,7.810827732086182,-0.7727497220039368
+MCPI,MCPI,typeVI_terpene_metabolism,Meristem,36.913028717041016,-0.33882492780685425
+EOT1,EOT1,typeVI_terpene_metabolism,Meristem,0.0,-0.34890925884246826
+RBCS-1,RBCS-1,reference_control,Meristem,187.94918823242188,-0.5649147629737854
+PSBO,PSBO,reference_control,Meristem,117.00464630126953,-0.043178170919418335
+Histone H4,Histone H4,reference_control,Meristem,429.7171325683594,-0.6199836730957031
+MTR3,MTR3,trichome_morphogenesis,MeristemEpidermis,473.9981384277344,0.527956485748291
+TOE1B,TOE1B,glandular_regulation,MeristemEpidermis,5.362394332885742,-0.9832483530044556
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,MeristemEpidermis,0.9490500092506409,-0.0935242772102356
+ASH3,ASH3,typeIV_acylsugar_metabolism,MeristemEpidermis,19.64764976501465,-0.19021017849445343
+MCPI,MCPI,typeVI_terpene_metabolism,MeristemEpidermis,29.044179916381836,-0.5393704771995544
+EOT1,EOT1,typeVI_terpene_metabolism,MeristemEpidermis,1.6373422145843506,-0.30665844678878784
+RBCS-1,RBCS-1,reference_control,MeristemEpidermis,234.54295349121094,-0.21673914790153503
+PSBO,PSBO,reference_control,MeristemEpidermis,117.2298355102539,-0.0377906858921051
+Histone H4,Histone H4,reference_control,MeristemEpidermis,2346.44189453125,2.4625236988067627
+MTR3,MTR3,trichome_morphogenesis,LeafEpidermis,488.2338562011719,0.5625076293945312
+TOE1B,TOE1B,glandular_regulation,LeafEpidermis,13.274176597595215,-0.20712848007678986
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,LeafEpidermis,1.0049548149108887,-0.06767270714044571
+ASH3,ASH3,typeIV_acylsugar_metabolism,LeafEpidermis,29.8038387298584,0.30961835384368896
+MCPI,MCPI,typeVI_terpene_metabolism,LeafEpidermis,35.6656494140625,-0.3706156313419342
+EOT1,EOT1,typeVI_terpene_metabolism,LeafEpidermis,0.7081530690193176,-0.3306357264518738
+RBCS-1,RBCS-1,reference_control,LeafEpidermis,233.8843536376953,-0.2216605842113495
+PSBO,PSBO,reference_control,LeafEpidermis,120.05181121826172,0.029722968116402626
+Histone H4,Histone H4,reference_control,LeafEpidermis,460.35980224609375,-0.5707036256790161
+MTR3,MTR3,trichome_morphogenesis,Trichome,1303.283203125,2.540691614151001
+TOE1B,TOE1B,glandular_regulation,Trichome,40.948970794677734,2.5076780319213867
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,Trichome,7.150417327880859,2.7741193771362305
+ASH3,ASH3,typeIV_acylsugar_metabolism,Trichome,73.49051666259766,2.459622621536255
+MCPI,MCPI,typeVI_terpene_metabolism,Trichome,56.05443572998047,0.1490132212638855
+EOT1,EOT1,typeVI_terpene_metabolism,Trichome,123.75959014892578,2.844644546508789
+RBCS-1,RBCS-1,reference_control,Trichome,150.94290161132812,-0.8414472341537476
+PSBO,PSBO,reference_control,Trichome,56.03656768798828,-1.5017937421798706
+Histone H4,Histone H4,reference_control,Trichome,718.616943359375,-0.15537039935588837
+MTR3,MTR3,trichome_morphogenesis,Subepidermis,113.79698181152344,-0.34627795219421387
+TOE1B,TOE1B,glandular_regulation,Subepidermis,10.702156066894531,-0.45943525433540344
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,Subepidermis,0.0,-0.5323851108551025
+ASH3,ASH3,typeIV_acylsugar_metabolism,Subepidermis,38.12557601928711,0.7191658616065979
+MCPI,MCPI,typeVI_terpene_metabolism,Subepidermis,34.0662841796875,-0.41137707233428955
+EOT1,EOT1,typeVI_terpene_metabolism,Subepidermis,1.826725959777832,-0.30177152156829834
+RBCS-1,RBCS-1,reference_control,Subepidermis,514.7959594726562,1.8774739503860474
+PSBO,PSBO,reference_control,Subepidermis,201.27554321289062,1.9729399681091309
+Histone H4,Histone H4,reference_control,Subepidermis,674.489501953125,-0.22633685171604156
+MTR3,MTR3,trichome_morphogenesis,AdaxialMesophyll,15.50391674041748,-0.5848423838615417
+TOE1B,TOE1B,glandular_regulation,AdaxialMesophyll,21.260093688964844,0.5762637853622437
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,AdaxialMesophyll,1.292453408241272,0.0652727335691452
+ASH3,ASH3,typeIV_acylsugar_metabolism,AdaxialMesophyll,19.12024688720703,-0.21616588532924652
+MCPI,MCPI,typeVI_terpene_metabolism,AdaxialMesophyll,35.65464401245117,-0.3708961308002472
+EOT1,EOT1,typeVI_terpene_metabolism,AdaxialMesophyll,1.2679888010025024,-0.3161894381046295
+RBCS-1,RBCS-1,reference_control,AdaxialMesophyll,503.1445007324219,1.790407419204712
+PSBO,PSBO,reference_control,AdaxialMesophyll,172.38421630859375,1.2817366123199463
+Histone H4,Histone H4,reference_control,AdaxialMesophyll,336.1425476074219,-0.7704718112945557
+MTR3,MTR3,trichome_morphogenesis,AbaxialMesophyll,10.992021560668945,-0.5957930684089661
+TOE1B,TOE1B,glandular_regulation,AbaxialMesophyll,9.704968452453613,-0.5572561025619507
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,AbaxialMesophyll,0.0,-0.5323851108551025
+ASH3,ASH3,typeIV_acylsugar_metabolism,AbaxialMesophyll,6.177351951599121,-0.8531398177146912
+MCPI,MCPI,typeVI_terpene_metabolism,AbaxialMesophyll,34.876434326171875,-0.3907295763492584
+EOT1,EOT1,typeVI_terpene_metabolism,AbaxialMesophyll,0.0,-0.34890925884246826
+RBCS-1,RBCS-1,reference_control,AbaxialMesophyll,231.12564086914062,-0.24227528274059296
+PSBO,PSBO,reference_control,AbaxialMesophyll,104.39022827148438,-0.34496867656707764
+Histone H4,Histone H4,reference_control,AbaxialMesophyll,381.2579345703125,-0.6979165077209473
+MTR3,MTR3,trichome_morphogenesis,Vasculature,17.264625549316406,-0.5805690288543701
+TOE1B,TOE1B,glandular_regulation,Vasculature,17.213947296142578,0.1793500781059265
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,Vasculature,0.0,-0.5323851108551025
+ASH3,ASH3,typeIV_acylsugar_metabolism,Vasculature,8.051673889160156,-0.7608966827392578
+MCPI,MCPI,typeVI_terpene_metabolism,Vasculature,46.962806701660156,-0.08269615471363068
+EOT1,EOT1,typeVI_terpene_metabolism,Vasculature,0.6286896467208862,-0.3326862156391144
+RBCS-1,RBCS-1,reference_control,Vasculature,215.3331298828125,-0.36028608679771423
+PSBO,PSBO,reference_control,Vasculature,100.7240982055664,-0.43267810344696045
+Histone H4,Histone H4,reference_control,Vasculature,438.1549072265625,-0.6064139008522034
+MTR3,MTR3,trichome_morphogenesis,LeafMargin,96.12340545654297,-0.3891730010509491
+TOE1B,TOE1B,glandular_regulation,LeafMargin,13.186197280883789,-0.21575896441936493
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,LeafMargin,0.48270508646965027,-0.30917203426361084
+ASH3,ASH3,typeIV_acylsugar_metabolism,LeafMargin,21.185096740722656,-0.11454598605632782
+MCPI,MCPI,typeVI_terpene_metabolism,LeafMargin,159.65213012695312,2.7893054485321045
+EOT1,EOT1,typeVI_terpene_metabolism,LeafMargin,4.2578444480896,-0.23903773725032806
+RBCS-1,RBCS-1,reference_control,LeafMargin,225.5377960205078,-0.2840309143066406
+PSBO,PSBO,reference_control,LeafMargin,119.80457305908203,0.023807980120182037
+Histone H4,Histone H4,reference_control,LeafMargin,1175.330810546875,0.5791240930557251
+MTR3,MTR3,trichome_morphogenesis,RibZone,96.12340545654297,-0.3891730010509491
+TOE1B,TOE1B,glandular_regulation,RibZone,13.186197280883789,-0.21575896441936493
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,RibZone,0.48270508646965027,-0.30917203426361084
+ASH3,ASH3,typeIV_acylsugar_metabolism,RibZone,21.185096740722656,-0.11454598605632782
+MCPI,MCPI,typeVI_terpene_metabolism,RibZone,159.65213012695312,2.7893054485321045
+EOT1,EOT1,typeVI_terpene_metabolism,RibZone,4.2578444480896,-0.23903773725032806
+RBCS-1,RBCS-1,reference_control,RibZone,225.5377960205078,-0.2840309143066406
+PSBO,PSBO,reference_control,RibZone,119.80457305908203,0.023807980120182037
+Histone H4,Histone H4,reference_control,RibZone,1175.330810546875,0.5791240930557251
+MTR3,MTR3,trichome_morphogenesis,OC,14.756765365600586,-0.5866557955741882
+TOE1B,TOE1B,glandular_regulation,OC,6.451107025146484,-0.8764491677284241
+ABC Transporter,ABC Transporter,typeIV_acylsugar_metabolism,OC,0.6334100961685181,-0.23948286473751068
+ASH3,ASH3,typeIV_acylsugar_metabolism,OC,7.810827732086182,-0.7727497220039368
+MCPI,MCPI,typeVI_terpene_metabolism,OC,36.913028717041016,-0.33882492780685425
+EOT1,EOT1,typeVI_terpene_metabolism,OC,0.0,-0.34890925884246826
+RBCS-1,RBCS-1,reference_control,OC,187.94918823242188,-0.5649147629737854
+PSBO,PSBO,reference_control,OC,117.00464630126953,-0.043178170919418335
+Histone H4,Histone H4,reference_control,OC,429.7171325683594,-0.6199836730957031

@@ -1,0 +1,419 @@
+ROI.name,feature,feature_label,feature_type,module,value_raw,value_z,mapping_note,key_gene
+Meristem,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.12937601,-0.12937601,,False
+Meristem,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.07624574,-0.07624574,,False
+Meristem,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.049486943,-0.049486943,,False
+Meristem,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.030203361,-0.030203361,,False
+Meristem,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.045033857,-0.045033857,,False
+Meristem,reference_control_score,Reference control,module,reference_control,-0.095729716,-0.095729716,,False
+MeristemEpidermis,epidermal_identity_score,Epidermal identity,module,epidermal_identity,0.5224448,0.5224448,,False
+MeristemEpidermis,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,0.09175815,0.09175815,,False
+MeristemEpidermis,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.027652288,-0.027652288,,False
+MeristemEpidermis,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.010647401,-0.010647401,,False
+MeristemEpidermis,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.032524783,-0.032524783,,False
+MeristemEpidermis,reference_control_score,Reference control,module,reference_control,0.07973638,0.07973638,,False
+LeafEpidermis,epidermal_identity_score,Epidermal identity,module,epidermal_identity,0.5217202,0.5217202,,False
+LeafEpidermis,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,0.105294585,0.105294585,,False
+LeafEpidermis,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.01727585,-0.01727585,,False
+LeafEpidermis,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,0.020857612,0.020857612,,False
+LeafEpidermis,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.042489845,-0.042489845,,False
+LeafEpidermis,reference_control_score,Reference control,module,reference_control,-0.082502306,-0.082502306,,False
+Trichome,epidermal_identity_score,Epidermal identity,module,epidermal_identity,0.9282963,0.9282963,,False
+Trichome,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,1.0888679,1.0888679,,False
+Trichome,glandular_regulation_score,Glandular regulation,module,glandular_regulation,1.1470084,1.1470084,,False
+Trichome,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,0.31342366,0.31342366,,False
+Trichome,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,0.3858915,0.3858915,,False
+Trichome,reference_control_score,Reference control,module,reference_control,-0.20682535,-0.20682535,,False
+Subepidermis,epidermal_identity_score,Epidermal identity,module,epidermal_identity,0.045393128,0.045393128,,False
+Subepidermis,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.032179724,-0.032179724,,False
+Subepidermis,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.039392132,-0.039392132,,False
+Subepidermis,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,0.00828113,0.00828113,,False
+Subepidermis,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.034774918,-0.034774918,,False
+Subepidermis,reference_control_score,Reference control,module,reference_control,0.18488975,0.18488975,,False
+AdaxialMesophyll,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.15925132,-0.15925132,,False
+AdaxialMesophyll,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.072241314,-0.072241314,,False
+AdaxialMesophyll,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.039885126,-0.039885126,,False
+AdaxialMesophyll,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.005690815,-0.005690815,,False
+AdaxialMesophyll,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.034960378,-0.034960378,,False
+AdaxialMesophyll,reference_control_score,Reference control,module,reference_control,0.1918014,0.1918014,,False
+AbaxialMesophyll,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.18458767,-0.18458767,,False
+AbaxialMesophyll,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.07398672,-0.07398672,,False
+AbaxialMesophyll,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.056681585,-0.056681585,,False
+AbaxialMesophyll,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.029490666,-0.029490666,,False
+AbaxialMesophyll,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.05044118,-0.05044118,,False
+AbaxialMesophyll,reference_control_score,Reference control,module,reference_control,-0.05461432,-0.05461432,,False
+Vasculature,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.25845888,-0.25845888,,False
+Vasculature,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.067241475,-0.067241475,,False
+Vasculature,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.048957232,-0.048957232,,False
+Vasculature,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.034953017,-0.034953017,,False
+Vasculature,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.04399506,-0.04399506,,False
+Vasculature,reference_control_score,Reference control,module,reference_control,-0.08294863,-0.08294863,,False
+LeafMargin,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.06991161,-0.06991161,,False
+LeafMargin,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.035670076,-0.035670076,,False
+LeafMargin,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.024817808,-0.024817808,,False
+LeafMargin,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.007189088,-0.007189088,,False
+LeafMargin,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,0.009505809,0.009505809,,False
+LeafMargin,reference_control_score,Reference control,module,reference_control,-0.00036871003,-0.00036871003,,False
+RibZone,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.06991161,-0.06991161,,False
+RibZone,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.035670076,-0.035670076,,False
+RibZone,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.024817808,-0.024817808,,False
+RibZone,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.007189088,-0.007189088,,False
+RibZone,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,0.009505809,0.009505809,,False
+RibZone,reference_control_score,Reference control,module,reference_control,-0.00036871003,-0.00036871003,,False
+OC,epidermal_identity_score,Epidermal identity,module,epidermal_identity,-0.12937601,-0.12937601,,False
+OC,trichome_morphogenesis_score,Trichome morphogenesis,module,trichome_morphogenesis,-0.07624574,-0.07624574,,False
+OC,glandular_regulation_score,Glandular regulation,module,glandular_regulation,-0.049486943,-0.049486943,,False
+OC,typeIV_acylsugar_metabolism_score,Type IV acylsugar metabolism,module,typeIV_acylsugar_metabolism,-0.030203361,-0.030203361,,False
+OC,typeVI_terpene_metabolism_score,Type VI terpene metabolism,module,typeVI_terpene_metabolism,-0.045033857,-0.045033857,,False
+OC,reference_control_score,Reference control,module,reference_control,-0.095729716,-0.095729716,,False
+Meristem,ML1,ML1,gene,epidermal_identity,33.817996978759766,-0.6818385124206543,,False
+Meristem,PDF1,PDF1,gene,epidermal_identity,249.36058044433594,-0.5628723502159119,,False
+Meristem,CD2,CD2,gene,epidermal_identity,661.607421875,0.5385152697563171,,False
+Meristem,SVB,SVB,gene,epidermal_identity,17.642648696899414,-0.646526575088501,,False
+Meristem,WOOLLY,WOOLLY,gene,epidermal_identity,8.939215660095215,-0.6967044472694397,,False
+Meristem,WOX3b,WOX3b,gene,trichome_morphogenesis,1.28131103515625,-0.3437591791152954,,False
+Meristem,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,1.4117399454116821,-0.3358733355998993,,False
+Meristem,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,3.9085121154785156,-0.46302151679992676,,False
+Meristem,MTR3,MTR3,gene,trichome_morphogenesis,14.756765365600586,-0.5866557955741882,,True
+Meristem,HAIR,HAIR,gene,trichome_morphogenesis,0.19213832914829254,-0.4098389446735382,,False
+Meristem,Hairless,Hairless,gene,trichome_morphogenesis,32.567413330078125,-0.7131810784339905,,False
+Meristem,Glandless,Glandless,gene,glandular_regulation,65.35302734375,-0.26336589455604553,,False
+Meristem,GCR1,GCR1,gene,glandular_regulation,1.123792290687561,-0.3275618255138397,,False
+Meristem,GCR2,GCR2,gene,glandular_regulation,0.0,-0.3481692373752594,,False
+Meristem,TOE1B,TOE1B,gene,glandular_regulation,6.451107025146484,-0.8764491677284241,,True
+Meristem,LFS,LFS,gene,glandular_regulation,2.1425411701202393,-0.40422531962394714,,False
+Meristem,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+Meristem,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.0,-0.40596646070480347,,False
+Meristem,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.6334100961685181,-0.23948286473751068,,True
+Meristem,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+Meristem,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,7.810827732086182,-0.7727497220039368,,True
+Meristem,MCPI,MCPI,gene,typeVI_terpene_metabolism,36.913028717041016,-0.33882492780685425,,True
+Meristem,EOT1,EOT1,gene,typeVI_terpene_metabolism,0.0,-0.34890925884246826,,True
+Meristem,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.0,-0.46460145711898804,,False
+Meristem,TPS9,TPS9,gene,typeVI_terpene_metabolism,10.212902069091797,0.08723874390125275,,False
+Meristem,RBCS-1,RBCS-1,gene,reference_control,187.94918823242188,-0.5649147629737854,,True
+Meristem,CAB13,CAB13,gene,reference_control,339.7240905761719,-0.23265299201011658,,False
+Meristem,PSBO,PSBO,gene,reference_control,117.00464630126953,-0.043178170919418335,,True
+Meristem,PSBS,PSBS,gene,reference_control,131.68862915039062,0.21267449855804443,,False
+Meristem,PSBR,PSBR,gene,reference_control,569.2061157226562,-0.2499793916940689,,False
+Meristem,WEE1,WEE1,gene,reference_control,18.848339080810547,-0.9090110659599304,,False
+Meristem,Histone H4,Histone H4,gene,reference_control,429.7171325683594,-0.6199836730957031,,True
+MeristemEpidermis,ML1,ML1,gene,epidermal_identity,645.1329345703125,1.7147948741912842,,False
+MeristemEpidermis,PDF1,PDF1,gene,epidermal_identity,1485.7359619140625,0.4258892834186554,,False
+MeristemEpidermis,CD2,CD2,gene,epidermal_identity,527.8270263671875,0.0620744526386261,,False
+MeristemEpidermis,SVB,SVB,gene,epidermal_identity,231.5462646484375,0.765869677066803,,False
+MeristemEpidermis,WOOLLY,WOOLLY,gene,epidermal_identity,216.79550170898438,1.6417937278747559,,False
+MeristemEpidermis,WOX3b,WOX3b,gene,trichome_morphogenesis,2.5716373920440674,-0.31936904788017273,,False
+MeristemEpidermis,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,5.1680779457092285,-0.26573240756988525,,False
+MeristemEpidermis,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,39.08529281616211,0.014295201748609543,,False
+MeristemEpidermis,MTR3,MTR3,gene,trichome_morphogenesis,473.9981384277344,0.527956485748291,,True
+MeristemEpidermis,HAIR,HAIR,gene,trichome_morphogenesis,2.407562017440796,-0.12579604983329773,,False
+MeristemEpidermis,Hairless,Hairless,gene,trichome_morphogenesis,35.295860290527344,0.008688727393746376,,False
+MeristemEpidermis,Glandless,Glandless,gene,glandular_regulation,123.40286254882812,-0.11982652544975281,,False
+MeristemEpidermis,GCR1,GCR1,gene,glandular_regulation,2.310016632080078,-0.2913331091403961,,False
+MeristemEpidermis,GCR2,GCR2,gene,glandular_regulation,0.5061599612236023,-0.3357609510421753,,False
+MeristemEpidermis,TOE1B,TOE1B,gene,glandular_regulation,5.362394332885742,-0.9832483530044556,,True
+MeristemEpidermis,LFS,LFS,gene,glandular_regulation,2.4287521839141846,-0.37273192405700684,,False
+MeristemEpidermis,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+MeristemEpidermis,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.0,-0.40596646070480347,,False
+MeristemEpidermis,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.9490500092506409,-0.0935242772102356,,True
+MeristemEpidermis,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+MeristemEpidermis,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,19.64764976501465,-0.19021017849445343,,True
+MeristemEpidermis,MCPI,MCPI,gene,typeVI_terpene_metabolism,29.044179916381836,-0.5393704771995544,,True
+MeristemEpidermis,EOT1,EOT1,gene,typeVI_terpene_metabolism,1.6373422145843506,-0.30665844678878784,,True
+MeristemEpidermis,EOT2,EOT2,gene,typeVI_terpene_metabolism,1.411625623703003,-0.07723131030797958,,False
+MeristemEpidermis,TPS9,TPS9,gene,typeVI_terpene_metabolism,7.635580539703369,-0.3344140946865082,,False
+MeristemEpidermis,RBCS-1,RBCS-1,gene,reference_control,234.54295349121094,-0.21673914790153503,,True
+MeristemEpidermis,CAB13,CAB13,gene,reference_control,227.09402465820312,-0.7475199103355408,,False
+MeristemEpidermis,PSBO,PSBO,gene,reference_control,117.2298355102539,-0.0377906858921051,,True
+MeristemEpidermis,PSBS,PSBS,gene,reference_control,108.30741882324219,-0.3488479256629944,,False
+MeristemEpidermis,PSBR,PSBR,gene,reference_control,565.05078125,-0.27290937304496765,,False
+MeristemEpidermis,WEE1,WEE1,gene,reference_control,40.502349853515625,1.762717366218567,,False
+MeristemEpidermis,Histone H4,Histone H4,gene,reference_control,2346.44189453125,2.4625236988067627,,True
+LeafEpidermis,ML1,ML1,gene,epidermal_identity,666.079833984375,1.7969162464141846,,False
+LeafEpidermis,PDF1,PDF1,gene,epidermal_identity,1571.44580078125,0.4944337010383606,,False
+LeafEpidermis,CD2,CD2,gene,epidermal_identity,492.8153381347656,-0.06261494010686874,,False
+LeafEpidermis,SVB,SVB,gene,epidermal_identity,201.97032165527344,0.5705810189247131,,False
+LeafEpidermis,WOOLLY,WOOLLY,gene,epidermal_identity,222.18370056152344,1.70241379737854,,False
+LeafEpidermis,WOX3b,WOX3b,gene,trichome_morphogenesis,8.401325225830078,-0.20917463302612305,,False
+LeafEpidermis,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,3.6533267498016357,-0.29401686787605286,,False
+LeafEpidermis,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,41.5727424621582,0.048047617077827454,,False
+LeafEpidermis,MTR3,MTR3,gene,trichome_morphogenesis,488.2338562011719,0.5625076293945312,,True
+LeafEpidermis,HAIR,HAIR,gene,trichome_morphogenesis,2.75264835357666,-0.08155198395252228,,False
+LeafEpidermis,Hairless,Hairless,gene,trichome_morphogenesis,34.64909362792969,-0.16242742538452148,,False
+LeafEpidermis,Glandless,Glandless,gene,glandular_regulation,77.3320541381836,-0.23374545574188232,,False
+LeafEpidermis,GCR1,GCR1,gene,glandular_regulation,1.8788999319076538,-0.30449995398521423,,False
+LeafEpidermis,GCR2,GCR2,gene,glandular_regulation,2.3065335750579834,-0.2916255593299866,,False
+LeafEpidermis,TOE1B,TOE1B,gene,glandular_regulation,13.274176597595215,-0.20712848007678986,,True
+LeafEpidermis,LFS,LFS,gene,glandular_regulation,4.668281078338623,-0.12630394101142883,,False
+LeafEpidermis,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+LeafEpidermis,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.548835039138794,-0.24697254598140717,,False
+LeafEpidermis,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,1.0049548149108887,-0.06767270714044571,,True
+LeafEpidermis,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.548835039138794,0.7407078146934509,,False
+LeafEpidermis,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,29.8038387298584,0.30961835384368896,,True
+LeafEpidermis,MCPI,MCPI,gene,typeVI_terpene_metabolism,35.6656494140625,-0.3706156313419342,,True
+LeafEpidermis,EOT1,EOT1,gene,typeVI_terpene_metabolism,0.7081530690193176,-0.3306357264518738,,True
+LeafEpidermis,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.40623852610588074,-0.35312381386756897,,False
+LeafEpidermis,TPS9,TPS9,gene,typeVI_terpene_metabolism,7.1791839599609375,-0.4090811312198639,,False
+LeafEpidermis,RBCS-1,RBCS-1,gene,reference_control,233.8843536376953,-0.2216605842113495,,True
+LeafEpidermis,CAB13,CAB13,gene,reference_control,319.7676086425781,-0.32388025522232056,,False
+LeafEpidermis,PSBO,PSBO,gene,reference_control,120.05181121826172,0.029722968116402626,,True
+LeafEpidermis,PSBS,PSBS,gene,reference_control,113.91397857666016,-0.214200958609581,,False
+LeafEpidermis,PSBR,PSBR,gene,reference_control,604.9490356445312,-0.05274258553981781,,False
+LeafEpidermis,WEE1,WEE1,gene,reference_control,21.281291961669922,-0.6088269948959351,,False
+LeafEpidermis,Histone H4,Histone H4,gene,reference_control,460.35980224609375,-0.5707036256790161,,True
+Trichome,ML1,ML1,gene,epidermal_identity,347.8912658691406,0.549471914768219,,False
+Trichome,PDF1,PDF1,gene,epidermal_identity,4199.18017578125,2.5959014892578125,,False
+Trichome,CD2,CD2,gene,epidermal_identity,943.7809448242188,1.5434380769729614,,False
+Trichome,SVB,SVB,gene,epidermal_identity,485.51641845703125,2.4428234100341797,,False
+Trichome,WOOLLY,WOOLLY,gene,epidermal_identity,145.03640747070312,0.8344641923904419,,False
+Trichome,WOX3b,WOX3b,gene,trichome_morphogenesis,169.88821411132812,2.843297243118286,,False
+Trichome,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,171.7377471923828,2.844571113586426,,False
+Trichome,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,243.96969604492188,2.794389009475708,,False
+Trichome,MTR3,MTR3,gene,trichome_morphogenesis,1303.283203125,2.540691614151001,,True
+Trichome,HAIR,HAIR,gene,trichome_morphogenesis,25.40883445739746,2.823233127593994,,False
+Trichome,Hairless,Hairless,gene,trichome_morphogenesis,41.45705032348633,1.6387652158737183,,False
+Trichome,Glandless,Glandless,gene,glandular_regulation,1318.2542724609375,2.8346731662750244,,False
+Trichome,GCR1,GCR1,gene,glandular_regulation,105.00882720947266,2.8452131748199463,,False
+Trichome,GCR2,GCR2,gene,glandular_regulation,130.26419067382812,2.845201253890991,,False
+Trichome,TOE1B,TOE1B,gene,glandular_regulation,40.948970794677734,2.5076780319213867,,True
+Trichome,LFS,LFS,gene,glandular_regulation,31.315393447875977,2.805828094482422,,False
+Trichome,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,4.164303302764893,2.846010684967041,,False
+Trichome,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,11.148567199707031,2.8237006664276123,,False
+Trichome,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,7.150417327880859,2.7741193771362305,,True
+Trichome,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,1.43330717086792,2.6456782817840576,,False
+Trichome,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,73.49051666259766,2.459622621536255,,True
+Trichome,MCPI,MCPI,gene,typeVI_terpene_metabolism,56.05443572998047,0.1490132212638855,,True
+Trichome,EOT1,EOT1,gene,typeVI_terpene_metabolism,123.75959014892578,2.844644546508789,,True
+Trichome,EOT2,EOT2,gene,typeVI_terpene_metabolism,11.941487312316895,2.812312364578247,,False
+Trichome,TPS9,TPS9,gene,typeVI_terpene_metabolism,8.991856575012207,-0.11252573877573013,,False
+Trichome,RBCS-1,RBCS-1,gene,reference_control,150.94290161132812,-0.8414472341537476,,True
+Trichome,CAB13,CAB13,gene,reference_control,169.13221740722656,-1.0124812126159668,,False
+Trichome,PSBO,PSBO,gene,reference_control,56.03656768798828,-1.5017937421798706,,True
+Trichome,PSBS,PSBS,gene,reference_control,57.766414642333984,-1.5626389980316162,,False
+Trichome,PSBR,PSBR,gene,reference_control,333.7070617675781,-1.5495117902755737,,False
+Trichome,WEE1,WEE1,gene,reference_control,19.268449783325195,-0.8571767210960388,,False
+Trichome,Histone H4,Histone H4,gene,reference_control,718.616943359375,-0.15537039935588837,,True
+Subepidermis,ML1,ML1,gene,epidermal_identity,125.14889526367188,-0.32377973198890686,,False
+Subepidermis,PDF1,PDF1,gene,epidermal_identity,522.6957397460938,-0.34427911043167114,,False
+Subepidermis,CD2,CD2,gene,epidermal_identity,910.667236328125,1.4255081415176392,,False
+Subepidermis,SVB,SVB,gene,epidermal_identity,51.25412368774414,-0.4245914816856384,,False
+Subepidermis,WOOLLY,WOOLLY,gene,epidermal_identity,45.42005920410156,-0.2862747609615326,,False
+Subepidermis,WOX3b,WOX3b,gene,trichome_morphogenesis,3.1309211254119873,-0.30879732966423035,,False
+Subepidermis,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,3.898000717163086,-0.28944817185401917,,False
+Subepidermis,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,11.756059646606445,-0.35653749108314514,,False
+Subepidermis,MTR3,MTR3,gene,trichome_morphogenesis,113.79698181152344,-0.34627795219421387,,True
+Subepidermis,HAIR,HAIR,gene,trichome_morphogenesis,1.1972105503082275,-0.2809771001338959,,False
+Subepidermis,Hairless,Hairless,gene,trichome_morphogenesis,33.434444427490234,-0.48378920555114746,,False
+Subepidermis,Glandless,Glandless,gene,glandular_regulation,35.19438934326172,-0.33793893456459045,,False
+Subepidermis,GCR1,GCR1,gene,glandular_regulation,1.3194788694381714,-0.3215853273868561,,False
+Subepidermis,GCR2,GCR2,gene,glandular_regulation,0.7256538271903992,-0.3303801417350769,,False
+Subepidermis,TOE1B,TOE1B,gene,glandular_regulation,10.702156066894531,-0.45943525433540344,,True
+Subepidermis,LFS,LFS,gene,glandular_regulation,5.214792251586914,-0.06616823375225067,,False
+Subepidermis,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+Subepidermis,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.0,-0.40596646070480347,,False
+Subepidermis,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.0,-0.5323851108551025,,True
+Subepidermis,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+Subepidermis,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,38.12557601928711,0.7191658616065979,,True
+Subepidermis,MCPI,MCPI,gene,typeVI_terpene_metabolism,34.0662841796875,-0.41137707233428955,,True
+Subepidermis,EOT1,EOT1,gene,typeVI_terpene_metabolism,1.826725959777832,-0.30177152156829834,,True
+Subepidermis,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.9617788195610046,-0.20067566633224487,,False
+Subepidermis,TPS9,TPS9,gene,typeVI_terpene_metabolism,7.7479400634765625,-0.31603196263313293,,False
+Subepidermis,RBCS-1,RBCS-1,gene,reference_control,514.7959594726562,1.8774739503860474,,True
+Subepidermis,CAB13,CAB13,gene,reference_control,661.9186401367188,1.240198016166687,,False
+Subepidermis,PSBO,PSBO,gene,reference_control,201.27554321289062,1.9729399681091309,,True
+Subepidermis,PSBS,PSBS,gene,reference_control,180.41168212890625,1.3828058242797852,,False
+Subepidermis,PSBR,PSBR,gene,reference_control,844.8955688476562,1.2713319063186646,,False
+Subepidermis,WEE1,WEE1,gene,reference_control,27.5319881439209,0.1624002307653427,,False
+Subepidermis,Histone H4,Histone H4,gene,reference_control,674.489501953125,-0.22633685171604156,,True
+AdaxialMesophyll,ML1,ML1,gene,epidermal_identity,25.050119400024414,-0.7162125706672668,,False
+AdaxialMesophyll,PDF1,PDF1,gene,epidermal_identity,247.35165405273438,-0.5644789338111877,,False
+AdaxialMesophyll,CD2,CD2,gene,epidermal_identity,538.090576171875,0.09862669557332993,,False
+AdaxialMesophyll,SVB,SVB,gene,epidermal_identity,25.369449615478516,-0.5955068469047546,,False
+AdaxialMesophyll,WOOLLY,WOOLLY,gene,epidermal_identity,5.7683820724487305,-0.7323780655860901,,False
+AdaxialMesophyll,WOX3b,WOX3b,gene,trichome_morphogenesis,0.8366069793701172,-0.3521651029586792,,False
+AdaxialMesophyll,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,2.9419150352478027,-0.3073008358478546,,False
+AdaxialMesophyll,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,7.725476264953613,-0.41122883558273315,,False
+AdaxialMesophyll,MTR3,MTR3,gene,trichome_morphogenesis,15.50391674041748,-0.5848423838615417,,True
+AdaxialMesophyll,HAIR,HAIR,gene,trichome_morphogenesis,0.0,-0.43447333574295044,,False
+AdaxialMesophyll,Hairless,Hairless,gene,trichome_morphogenesis,32.34100341796875,-0.7730827331542969,,False
+AdaxialMesophyll,Glandless,Glandless,gene,glandular_regulation,5.856436252593994,-0.4104826748371124,,False
+AdaxialMesophyll,GCR1,GCR1,gene,glandular_regulation,1.2415364980697632,-0.32396581768989563,,False
+AdaxialMesophyll,GCR2,GCR2,gene,glandular_regulation,1.225907802581787,-0.3181166350841522,,False
+AdaxialMesophyll,TOE1B,TOE1B,gene,glandular_regulation,21.260093688964844,0.5762637853622437,,True
+AdaxialMesophyll,LFS,LFS,gene,glandular_regulation,1.714218258857727,-0.45135611295700073,,False
+AdaxialMesophyll,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+AdaxialMesophyll,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.48839953541755676,-0.264480322599411,,False
+AdaxialMesophyll,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,1.292453408241272,0.0652727335691452,,True
+AdaxialMesophyll,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+AdaxialMesophyll,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,19.12024688720703,-0.21616588532924652,,True
+AdaxialMesophyll,MCPI,MCPI,gene,typeVI_terpene_metabolism,35.65464401245117,-0.3708961308002472,,True
+AdaxialMesophyll,EOT1,EOT1,gene,typeVI_terpene_metabolism,1.2679888010025024,-0.3161894381046295,,True
+AdaxialMesophyll,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.9333743453025818,-0.20847027003765106,,False
+AdaxialMesophyll,TPS9,TPS9,gene,typeVI_terpene_metabolism,9.34156608581543,-0.05531284958124161,,False
+AdaxialMesophyll,RBCS-1,RBCS-1,gene,reference_control,503.1445007324219,1.790407419204712,,True
+AdaxialMesophyll,CAB13,CAB13,gene,reference_control,869.651611328125,2.189809799194336,,False
+AdaxialMesophyll,PSBO,PSBO,gene,reference_control,172.38421630859375,1.2817366123199463,,True
+AdaxialMesophyll,PSBS,PSBS,gene,reference_control,194.2263946533203,1.714579463005066,,False
+AdaxialMesophyll,PSBR,PSBR,gene,reference_control,947.0084838867188,1.834812045097351,,False
+AdaxialMesophyll,WEE1,WEE1,gene,reference_control,15.667375564575195,-1.301486611366272,,False
+AdaxialMesophyll,Histone H4,Histone H4,gene,reference_control,336.1425476074219,-0.7704718112945557,,True
+AbaxialMesophyll,ML1,ML1,gene,epidermal_identity,45.908626556396484,-0.6344376802444458,,False
+AbaxialMesophyll,PDF1,PDF1,gene,epidermal_identity,246.77862548828125,-0.5649372339248657,,False
+AbaxialMesophyll,CD2,CD2,gene,epidermal_identity,393.4339904785156,-0.4165481626987457,,False
+AbaxialMesophyll,SVB,SVB,gene,epidermal_identity,20.516088485717773,-0.6275533437728882,,False
+AbaxialMesophyll,WOOLLY,WOOLLY,gene,epidermal_identity,8.19954776763916,-0.7050260901451111,,False
+AbaxialMesophyll,WOX3b,WOX3b,gene,trichome_morphogenesis,0.0,-0.36797890067100525,,False
+AbaxialMesophyll,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,0.0,-0.36223432421684265,,False
+AbaxialMesophyll,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,8.266570091247559,-0.4038866460323334,,False
+AbaxialMesophyll,MTR3,MTR3,gene,trichome_morphogenesis,10.992021560668945,-0.5957930684089661,,True
+AbaxialMesophyll,HAIR,HAIR,gene,trichome_morphogenesis,0.0,-0.43447333574295044,,False
+AbaxialMesophyll,Hairless,Hairless,gene,trichome_morphogenesis,36.035858154296875,0.20447121560573578,,False
+AbaxialMesophyll,Glandless,Glandless,gene,glandular_regulation,13.305194854736328,-0.3920641839504242,,False
+AbaxialMesophyll,GCR1,GCR1,gene,glandular_regulation,2.076564073562622,-0.29846304655075073,,False
+AbaxialMesophyll,GCR2,GCR2,gene,glandular_regulation,0.9845133423805237,-0.32403430342674255,,False
+AbaxialMesophyll,TOE1B,TOE1B,gene,glandular_regulation,9.704968452453613,-0.5572561025619507,,True
+AbaxialMesophyll,LFS,LFS,gene,glandular_regulation,1.552717924118042,-0.4691268801689148,,False
+AbaxialMesophyll,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+AbaxialMesophyll,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,1.349513053894043,-0.015021354891359806,,False
+AbaxialMesophyll,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.0,-0.5323851108551025,,True
+AbaxialMesophyll,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+AbaxialMesophyll,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,6.177351951599121,-0.8531398177146912,,True
+AbaxialMesophyll,MCPI,MCPI,gene,typeVI_terpene_metabolism,34.876434326171875,-0.3907295763492584,,True
+AbaxialMesophyll,EOT1,EOT1,gene,typeVI_terpene_metabolism,0.0,-0.34890925884246826,,True
+AbaxialMesophyll,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.0,-0.46460145711898804,,False
+AbaxialMesophyll,TPS9,TPS9,gene,typeVI_terpene_metabolism,3.9317572116851807,-0.9403640031814575,,False
+AbaxialMesophyll,RBCS-1,RBCS-1,gene,reference_control,231.12564086914062,-0.24227528274059296,,True
+AbaxialMesophyll,CAB13,CAB13,gene,reference_control,456.8044738769531,0.30255770683288574,,False
+AbaxialMesophyll,PSBO,PSBO,gene,reference_control,104.39022827148438,-0.34496867656707764,,True
+AbaxialMesophyll,PSBS,PSBS,gene,reference_control,124.61847686767578,0.042877934873104095,,False
+AbaxialMesophyll,PSBR,PSBR,gene,reference_control,659.7742919921875,0.24979448318481445,,False
+AbaxialMesophyll,WEE1,WEE1,gene,reference_control,23.617755889892578,-0.3205479681491852,,False
+AbaxialMesophyll,Histone H4,Histone H4,gene,reference_control,381.2579345703125,-0.6979165077209473,,True
+Vasculature,ML1,ML1,gene,epidermal_identity,28.63604736328125,-0.7021540999412537,,False
+Vasculature,PDF1,PDF1,gene,epidermal_identity,233.0225830078125,-0.5759382843971252,,False
+Vasculature,CD2,CD2,gene,epidermal_identity,106.05521392822266,-1.4400088787078857,,False
+Vasculature,SVB,SVB,gene,epidermal_identity,26.689571380615234,-0.5867900848388672,,False
+Vasculature,WOOLLY,WOOLLY,gene,epidermal_identity,3.359180212020874,-0.7594829797744751,,False
+Vasculature,WOX3b,WOX3b,gene,trichome_morphogenesis,1.7040631771087646,-0.3357681930065155,,False
+Vasculature,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,1.4673787355422974,-0.33483442664146423,,False
+Vasculature,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,6.665983200073242,-0.4256051480770111,,False
+Vasculature,MTR3,MTR3,gene,trichome_morphogenesis,17.264625549316406,-0.5805690288543701,,True
+Vasculature,HAIR,HAIR,gene,trichome_morphogenesis,1.0798492431640625,-0.2960241734981537,,False
+Vasculature,Hairless,Hairless,gene,trichome_morphogenesis,33.0636100769043,-0.581901490688324,,False
+Vasculature,Glandless,Glandless,gene,glandular_regulation,14.885701179504395,-0.38815605640411377,,False
+Vasculature,GCR1,GCR1,gene,glandular_regulation,0.7890959978103638,-0.3377838730812073,,False
+Vasculature,GCR2,GCR2,gene,glandular_regulation,0.6409311294555664,-0.3324570953845978,,False
+Vasculature,TOE1B,TOE1B,gene,glandular_regulation,17.213947296142578,0.1793500781059265,,True
+Vasculature,LFS,LFS,gene,glandular_regulation,1.0762449502944946,-0.5215559005737305,,False
+Vasculature,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+Vasculature,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.0,-0.40596646070480347,,False
+Vasculature,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.0,-0.5323851108551025,,True
+Vasculature,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+Vasculature,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,8.051673889160156,-0.7608966827392578,,True
+Vasculature,MCPI,MCPI,gene,typeVI_terpene_metabolism,46.962806701660156,-0.08269615471363068,,True
+Vasculature,EOT1,EOT1,gene,typeVI_terpene_metabolism,0.6286896467208862,-0.3326862156391144,,True
+Vasculature,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.0,-0.46460145711898804,,False
+Vasculature,TPS9,TPS9,gene,typeVI_terpene_metabolism,7.423752307891846,-0.3690694570541382,,False
+Vasculature,RBCS-1,RBCS-1,gene,reference_control,215.3331298828125,-0.36028608679771423,,True
+Vasculature,CAB13,CAB13,gene,reference_control,310.61602783203125,-0.365714967250824,,False
+Vasculature,PSBO,PSBO,gene,reference_control,100.7240982055664,-0.43267810344696045,,True
+Vasculature,PSBS,PSBS,gene,reference_control,122.27031707763672,-0.013515395112335682,,False
+Vasculature,PSBR,PSBR,gene,reference_control,605.8463134765625,-0.04779122397303581,,False
+Vasculature,WEE1,WEE1,gene,reference_control,35.967559814453125,1.2032030820846558,,False
+Vasculature,Histone H4,Histone H4,gene,reference_control,438.1549072265625,-0.6064139008522034,,True
+LeafMargin,ML1,ML1,gene,epidermal_identity,119.22289276123047,-0.34701237082481384,,False
+LeafMargin,PDF1,PDF1,gene,epidermal_identity,520.0532836914062,-0.34639236330986023,,False
+LeafMargin,CD2,CD2,gene,epidermal_identity,405.4667663574219,-0.3736950755119324,,False
+LeafMargin,SVB,SVB,gene,epidermal_identity,64.79174041748047,-0.3352031707763672,,False
+LeafMargin,WOOLLY,WOOLLY,gene,epidermal_identity,37.99007797241211,-0.36986616253852844,,False
+LeafMargin,WOX3b,WOX3b,gene,trichome_morphogenesis,4.201509952545166,-0.28856074810028076,,False
+LeafMargin,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,3.7133424282073975,-0.29289621114730835,,False
+LeafMargin,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,15.443833351135254,-0.3064977824687958,,False
+LeafMargin,MTR3,MTR3,gene,trichome_morphogenesis,96.12340545654297,-0.3891730010509491,,True
+LeafMargin,HAIR,HAIR,gene,trichome_morphogenesis,0.8489759564399719,-0.3256247937679291,,False
+LeafMargin,Hairless,Hairless,gene,trichome_morphogenesis,31.4186954498291,-1.017099380493164,,False
+LeafMargin,Glandless,Glandless,gene,glandular_regulation,44.54298782348633,-0.3148227334022522,,False
+LeafMargin,GCR1,GCR1,gene,glandular_regulation,2.74211049079895,-0.2781364619731903,,False
+LeafMargin,GCR2,GCR2,gene,glandular_regulation,2.019989013671875,-0.2986500859260559,,False
+LeafMargin,TOE1B,TOE1B,gene,glandular_regulation,13.186197280883789,-0.21575896441936493,,True
+LeafMargin,LFS,LFS,gene,glandular_regulation,5.157214164733887,-0.07250387221574783,,False
+LeafMargin,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.021983757615089417,-0.3013758063316345,,False
+LeafMargin,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.4783422648906708,-0.2673938274383545,,False
+LeafMargin,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.48270508646965027,-0.30917203426361084,,True
+LeafMargin,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.06712332367897034,-0.2967996597290039,,False
+LeafMargin,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,21.185096740722656,-0.11454598605632782,,True
+LeafMargin,MCPI,MCPI,gene,typeVI_terpene_metabolism,159.65213012695312,2.7893054485321045,,True
+LeafMargin,EOT1,EOT1,gene,typeVI_terpene_metabolism,4.2578444480896,-0.23903773725032806,,True
+LeafMargin,EOT2,EOT2,gene,typeVI_terpene_metabolism,1.2761579751968384,-0.114405557513237,,False
+LeafMargin,TPS9,TPS9,gene,typeVI_terpene_metabolism,26.41272735595703,2.7375495433807373,,False
+LeafMargin,RBCS-1,RBCS-1,gene,reference_control,225.5377960205078,-0.2840309143066406,,True
+LeafMargin,CAB13,CAB13,gene,reference_control,335.0116271972656,-0.25419512391090393,,False
+LeafMargin,PSBO,PSBO,gene,reference_control,119.80457305908203,0.023807980120182037,,True
+LeafMargin,PSBS,PSBS,gene,reference_control,123.14420318603516,0.007471825927495956,,False
+LeafMargin,PSBR,PSBR,gene,reference_control,615.44189453125,0.00515917269513011,,False
+LeafMargin,WEE1,WEE1,gene,reference_control,32.942867279052734,0.8300086259841919,,False
+LeafMargin,Histone H4,Histone H4,gene,reference_control,1175.330810546875,0.5791240930557251,,True
+RibZone,ML1,ML1,gene,epidermal_identity,119.22289276123047,-0.34701237082481384,,False
+RibZone,PDF1,PDF1,gene,epidermal_identity,520.0532836914062,-0.34639236330986023,,False
+RibZone,CD2,CD2,gene,epidermal_identity,405.4667663574219,-0.3736950755119324,,False
+RibZone,SVB,SVB,gene,epidermal_identity,64.79174041748047,-0.3352031707763672,,False
+RibZone,WOOLLY,WOOLLY,gene,epidermal_identity,37.99007797241211,-0.36986616253852844,,False
+RibZone,WOX3b,WOX3b,gene,trichome_morphogenesis,4.201509952545166,-0.28856074810028076,,False
+RibZone,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,3.7133424282073975,-0.29289621114730835,,False
+RibZone,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,15.443833351135254,-0.3064977824687958,,False
+RibZone,MTR3,MTR3,gene,trichome_morphogenesis,96.12340545654297,-0.3891730010509491,,True
+RibZone,HAIR,HAIR,gene,trichome_morphogenesis,0.8489759564399719,-0.3256247937679291,,False
+RibZone,Hairless,Hairless,gene,trichome_morphogenesis,31.4186954498291,-1.017099380493164,,False
+RibZone,Glandless,Glandless,gene,glandular_regulation,44.54298782348633,-0.3148227334022522,,False
+RibZone,GCR1,GCR1,gene,glandular_regulation,2.74211049079895,-0.2781364619731903,,False
+RibZone,GCR2,GCR2,gene,glandular_regulation,2.019989013671875,-0.2986500859260559,,False
+RibZone,TOE1B,TOE1B,gene,glandular_regulation,13.186197280883789,-0.21575896441936493,,True
+RibZone,LFS,LFS,gene,glandular_regulation,5.157214164733887,-0.07250387221574783,,False
+RibZone,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.021983757615089417,-0.3013758063316345,,False
+RibZone,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.4783422648906708,-0.2673938274383545,,False
+RibZone,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.48270508646965027,-0.30917203426361084,,True
+RibZone,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.06712332367897034,-0.2967996597290039,,False
+RibZone,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,21.185096740722656,-0.11454598605632782,,True
+RibZone,MCPI,MCPI,gene,typeVI_terpene_metabolism,159.65213012695312,2.7893054485321045,,True
+RibZone,EOT1,EOT1,gene,typeVI_terpene_metabolism,4.2578444480896,-0.23903773725032806,,True
+RibZone,EOT2,EOT2,gene,typeVI_terpene_metabolism,1.2761579751968384,-0.114405557513237,,False
+RibZone,TPS9,TPS9,gene,typeVI_terpene_metabolism,26.41272735595703,2.7375495433807373,,False
+RibZone,RBCS-1,RBCS-1,gene,reference_control,225.5377960205078,-0.2840309143066406,,True
+RibZone,CAB13,CAB13,gene,reference_control,335.0116271972656,-0.25419512391090393,,False
+RibZone,PSBO,PSBO,gene,reference_control,119.80457305908203,0.023807980120182037,,True
+RibZone,PSBS,PSBS,gene,reference_control,123.14420318603516,0.007471825927495956,,False
+RibZone,PSBR,PSBR,gene,reference_control,615.44189453125,0.00515917269513011,,False
+RibZone,WEE1,WEE1,gene,reference_control,32.942867279052734,0.8300086259841919,,False
+RibZone,Histone H4,Histone H4,gene,reference_control,1175.330810546875,0.5791240930557251,,True
+OC,ML1,ML1,gene,epidermal_identity,33.817996978759766,-0.6818385124206543,,False
+OC,PDF1,PDF1,gene,epidermal_identity,249.36058044433594,-0.5628723502159119,,False
+OC,CD2,CD2,gene,epidermal_identity,661.607421875,0.5385152697563171,,False
+OC,SVB,SVB,gene,epidermal_identity,17.642648696899414,-0.646526575088501,,False
+OC,WOOLLY,WOOLLY,gene,epidermal_identity,8.939215660095215,-0.6967044472694397,,False
+OC,WOX3b,WOX3b,gene,trichome_morphogenesis,1.28131103515625,-0.3437591791152954,,False
+OC,MX1 / MIXTA,MX1 / MIXTA,gene,trichome_morphogenesis,1.4117399454116821,-0.3358733355998993,,False
+OC,MTR2 / CycB3,MTR2 / CycB3,gene,trichome_morphogenesis,3.9085121154785156,-0.46302151679992676,,False
+OC,MTR3,MTR3,gene,trichome_morphogenesis,14.756765365600586,-0.5866557955741882,,True
+OC,HAIR,HAIR,gene,trichome_morphogenesis,0.19213832914829254,-0.4098389446735382,,False
+OC,Hairless,Hairless,gene,trichome_morphogenesis,32.567413330078125,-0.7131810784339905,,False
+OC,Glandless,Glandless,gene,glandular_regulation,65.35302734375,-0.26336589455604553,,False
+OC,GCR1,GCR1,gene,glandular_regulation,1.123792290687561,-0.3275618255138397,,False
+OC,GCR2,GCR2,gene,glandular_regulation,0.0,-0.3481692373752594,,False
+OC,TOE1B,TOE1B,gene,glandular_regulation,6.451107025146484,-0.8764491677284241,,True
+OC,LFS,LFS,gene,glandular_regulation,2.1425411701202393,-0.40422531962394714,,False
+OC,AACS1,AACS1,gene,typeIV_acylsugar_metabolism,0.0,-0.3180793523788452,,False
+OC,AECH1,AECH1,gene,typeIV_acylsugar_metabolism,0.0,-0.40596646070480347,,False
+OC,ABC Transporter,ABC Transporter,gene,typeIV_acylsugar_metabolism,0.6334100961685181,-0.23948286473751068,,True
+OC,ASAT2,ASAT2,gene,typeIV_acylsugar_metabolism,0.0,-0.4413694143295288,,False
+OC,ASH3,ASH3,gene,typeIV_acylsugar_metabolism,7.810827732086182,-0.7727497220039368,,True
+OC,MCPI,MCPI,gene,typeVI_terpene_metabolism,36.913028717041016,-0.33882492780685425,,True
+OC,EOT1,EOT1,gene,typeVI_terpene_metabolism,0.0,-0.34890925884246826,,True
+OC,EOT2,EOT2,gene,typeVI_terpene_metabolism,0.0,-0.46460145711898804,,False
+OC,TPS9,TPS9,gene,typeVI_terpene_metabolism,10.212902069091797,0.08723874390125275,,False
+OC,RBCS-1,RBCS-1,gene,reference_control,187.94918823242188,-0.5649147629737854,,True
+OC,CAB13,CAB13,gene,reference_control,339.7240905761719,-0.23265299201011658,,False
+OC,PSBO,PSBO,gene,reference_control,117.00464630126953,-0.043178170919418335,,True
+OC,PSBS,PSBS,gene,reference_control,131.68862915039062,0.21267449855804443,,False
+OC,PSBR,PSBR,gene,reference_control,569.2061157226562,-0.2499793916940689,,False
+OC,WEE1,WEE1,gene,reference_control,18.848339080810547,-0.9090110659599304,,False
+OC,Histone H4,Histone H4,gene,reference_control,429.7171325683594,-0.6199836730957031,,True
