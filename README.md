@@ -1,36 +1,49 @@
-# tomato-shoot-atlas
-Exploratory analysis of tomato shoot-apex single-nucleus atlas data for epidermal and trichome developmental context.
+# Tomato shoot-apex trichome atlas re-analysis
+
+Exploratory re-analysis of the tomato shoot-apex snRNA-seq atlas to detect trichome developmental, glandular regulatory, and metabolic marker programs.
 
 ## Data source and scope
+This repository uses the tomato shoot-apex single-nucleus RNA-seq atlas from Tian et al. (2020), generated from *Solanum lycopersicum* cv. M82 shoot apices from 2-week-old seedlings.
 
-This repository uses the tomato shoot-apex single-nucleus RNA-seq atlas from Tian et al. (2020) as a reference for exploratory marker/module scoring. The original atlas was generated from *Solanum lycopersicum* cv. M82 seedlings, using shoot apices dissected from 2-week-old plants and retaining the shoot apical meristem (SAM) together with early leaf primordia up to P3.
+Using author annotations and literature-reported markers, this analysis explores whether Type IV-like and Type VI-like glandular trichome marker signals can be detected within the shoot-apex atlas, and whether these signals are strong enough to support subtype annotation in trichome single-cell datasets.
 
-This analysis builds on the authors’ cell annotations, especially epidermis, trichome, meristem, mesophyll, vasculature, and rib zone categories. The atlas is used here to explore epidermis-to-trichome developmental context rather than to assign definitive mature trichome subtype identity.
 
 ## What this workflow does
 
-- Loads the published tomato shoot-apex atlas.
-- Maps curated tomato trichome/development/metabolism candidate genes to atlas gene IDs.
-- Scores developmental gene modules across author-defined atlas cell categories.
-- Compares curated candidate genes with atlas-derived trichome marker genes.
-- Exports summary tables and figures.
-- Uses ggPlantmap separately in R to project module scores onto a manually reconstructed shoot-apex schematic.
+- maps curated tomato trichome/development/metabolism marker genes to atlas gene IDs;
+- scores literature-supported marker modules across atlas-defined cell categories;
+- evaluates enrichment of curated markers in atlas-defined trichome nuclei;
+- defines Type IV-like and Type VI-like metabolic marker groups;
+- exports summary tables and figures;
+- uses ggPlantMap in R to project module scores onto a manually reconstructed shoot-apex schematic.
+
+## Key findings
+
+- Trichome morphogenesis and glandular regulation modules are enriched in atlas-defined trichome nuclei.
+- The epidermal identity module is strongest in epidermal contexts and reduced in trichome-labelled nuclei.
+- Type IV acylsugar and Type VI terpene metabolic markers are detected in only subsets of trichome nuclei.
+- Most trichome nuclei are metabolic-marker-negative, consistent with early developmental stage and snRNA-seq limitations.
+- No clean Type IV versus Type VI mature subtype separation is recovered; the data support partial marker-program states.
 
 ## Repository structure
 
 ```text
-notebooks/
-  tomato_shoot_atlas_trichome_context.ipynb
-
-data/
-  curated_gene_modules_github.csv
-
-figures/
-  Fig1_developmental_module_overview.png
-  Fig2_shoot_apex_roi_anatomy_guide.png
-
-scripts/
-  ggPlantMap_final_figures.R
+.
+├── README.md
+├── notebooks/
+│   ├── 00_author_trichome_marker_discovery.ipynb
+│   └── 01_tomato_trichome_shoot_apex_atlas.ipynb
+├── scripts/
+│   └── ggPlantMap_TomatoShootAtlas.R
+├── data/
+│   ├── final_module_definitions.csv
+│   ├── literature_candidate_gene_table.csv
+│   ├── ggplantmap_module_and_gene_values.csv
+│   ├── ggplantmap_module_gene_lookup.csv
+│   ├── ggplantmap_key_gene_values.csv
+│   └── split_meristem_ggplantmap_clean_points.csv
+├── figures/
+└── tables/
 ```
 ## References
 
