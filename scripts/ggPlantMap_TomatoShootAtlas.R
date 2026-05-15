@@ -2,7 +2,6 @@
 # ggPlantMap final GitHub figures — tomato shoot apex
 # ============================================================
 
-setwd("C:/Users/fforn/tomato_atlas/GitHub/Final666")
 
 library(dplyr)
 library(ggplot2)
@@ -34,18 +33,18 @@ if (!file.exists(roi_points_file)) {
   )
 }
 
-values_file <- file.path(data_dir, "ggplantmap_module_and_gene_values_FINAL_RESTORED.csv")
+values_file <- file.path(data_dir, "ggplantmap_module_and_gene_values.csv")
 
 if (!file.exists(values_file)) {
-  values_file <- "ggplantmap_module_and_gene_values_FINAL_RESTORED.csv"
+  values_file <- "ggplantmap_module_and_gene_values.csv"
 }
 
 if (!file.exists(values_file)) {
   stop(
-    "Missing restored final values table. Expected:\n",
-    "data/ggplantmap_module_and_gene_values_FINAL_RESTORED.csv\n",
+    "Missing module values table. Expected:\n",
+    "data/ggplantmap_module_and_gene_values.csv\n",
     "or\n",
-    "ggplantmap_module_and_gene_values_FINAL_RESTORED.csv\n\n",
+    "ggplantmap_module_and_gene_values.csv\n\n",
     "Current directory: ", getwd(), "\n",
     "Files here: ", paste(list.files(), collapse = ", "), "\n",
     "Files in data/: ", paste(list.files(data_dir), collapse = ", ")
