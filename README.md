@@ -1,4 +1,4 @@
-# Tomato shoot-apex trichome atlas re-analysis
+# Tomato shoot-apex single-nucleus atlas: trichome marker re-analysis
 
 Exploratory re-analysis of the tomato shoot-apex snRNA-seq atlas to detect trichome developmental, glandular regulatory, and metabolic marker programs.
 
